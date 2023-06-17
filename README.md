@@ -1,11 +1,11 @@
 # Basic-HFT-simulation-using-Java
 # HFT Simulator
 
-This is a simple High-Frequency Trading (HFT) simulator implemented in Java. The simulator allows you to perform automated trading operations based on predefined strategies and market conditions. I have used Market Making Algorithm and have calculated certain Adjustments based on variable previousTradingVolume
+This is a simple High-Frequency Trading (HFT) simulator implemented in Java. The simulator allows you to perform automated trading operations based on predefined strategies and market conditions. I have used Market Making Algorithm and have calculated certain Adjustments based on variable previousTradingVolume. I have tried my level best to keep it simole so as to ensure understanding for many. I have used only Scanner class and have not used any APIs. Use of APIs will further enhance the code as per requirements. 
 
 ## Overview
 
-The HFT Simulator is designed to execute trading cycles for multiple stocks based on provided market prices, buy quantities, sell quantities, and previous trading volumes. It calculates adjusted buy and sell prices, tracks profits for each cycle, and provides the total profit at the end of the simulation.
+The HFT Simulator is designed to execute trading cycles for multiple stocks based on provided market prices, buy quantities, sell quantities, and previous trading volumes. It calculates adjusted buy and sell prices, tracks profits for each cycle, and provides the total profit at the end of the simulation. If desired, trading cycles can also be changed as per wish. For demonstartion, I have taken 10 trading cycles for all of them. 
 
 ## Features
 
